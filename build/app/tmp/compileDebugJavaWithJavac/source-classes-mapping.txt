@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mgogolowicz/sobgog_currency_converter/BuildConfig.java
+ com.mgogolowicz.sobgog_currency_converter.BuildConfig
