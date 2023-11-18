@@ -1,0 +1,4 @@
+#Sat Nov 18 13:33:42 AST 2023
+base.0=/Users/ahmedauday/GitHub/Flutter/Currency-Converter-App-Flutter-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

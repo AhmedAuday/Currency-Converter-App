@@ -8,7 +8,7 @@ PreferredSize appbarWidget(ThemeData themeData) {
       bottomOpacity: 0.0,
       elevation: 0.0,
       shadowColor: Colors.transparent,
-      backgroundColor: themeData.backgroundColor,
+      backgroundColor: themeData.colorScheme.background,
       automaticallyImplyLeading: false,
       titleSpacing: 0,
       title: Image.asset(

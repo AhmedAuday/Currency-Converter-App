@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
         defaultTransition: Transition.rightToLeft,
         transitionDuration: const Duration(milliseconds: 500),
         debugShowCheckedModeBanner: false,
-        title: 'SobGOG Currency Converter',
+        title: 'Potamia Currency Converter',
         home: const HomePage(),
         theme: lightModeTheme,
         darkTheme: darkModeTheme,
